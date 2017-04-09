@@ -2,4 +2,4 @@ first
 create a new line
 line2master
 line3
-
+today is a go
