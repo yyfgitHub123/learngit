@@ -4,3 +4,4 @@ line2master
 line3
 today is a go
 now I add some words
+
